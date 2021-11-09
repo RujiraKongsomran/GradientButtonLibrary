@@ -8,3 +8,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "GradientButtonLibrary"
 include ':app'
+include ':gradient-button'
